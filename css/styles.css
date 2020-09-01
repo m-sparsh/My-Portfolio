@@ -88,6 +88,7 @@ section{
   left: 300px;
   bottom: 300px;
 }
+
 .skill-row{
   width: 50%;
   margin: 100px auto 100px auto;
@@ -130,6 +131,14 @@ section{
   color: #EAF6F6;
   font-size: 0.75rem;
   padding: 20px 0px;
+}
+.footer-link{
+  text-decoration: none;
+  color: #EAF6F6;
+}
+.bottom-container a:hover{
+  text-decoration: none;
+  color: #ed6663;
 }
 
 .invisible{
